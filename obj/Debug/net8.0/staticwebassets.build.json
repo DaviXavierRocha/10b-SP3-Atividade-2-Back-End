@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "mGJMYWNxELGxQYE28/AE90Rg/L1TYZYXQwzHVCwUQ4E=",
+  "Source": "web LH-Pets",
+  "BasePath": "_content/web LH-Pets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "web LH-Pets\\wwwroot",
+      "Source": "web LH-Pets",
+      "ContentRoot": "D:\\Estudos\\Back end\\web LH-Pets\\wwwroot\\",
+      "BasePath": "_content/web LH-Pets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Estudos\\Back end\\web LH-Pets\\wwwroot\\index.html",
+      "SourceId": "web LH-Pets",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Estudos\\Back end\\web LH-Pets\\wwwroot\\",
+      "BasePath": "_content/web LH-Pets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

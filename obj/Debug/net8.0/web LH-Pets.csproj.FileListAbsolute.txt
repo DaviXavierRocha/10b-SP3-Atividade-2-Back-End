@@ -1,0 +1,34 @@
+D:\Estudos\Back end\web LH-Pets\obj\Debug\net8.0\web LH-Pets.csproj.AssemblyReference.cache
+D:\Estudos\Back end\web LH-Pets\obj\Debug\net8.0\web LH-Pets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\Back end\web LH-Pets\obj\Debug\net8.0\web LH-Pets.AssemblyInfoInputs.cache
+D:\Estudos\Back end\web LH-Pets\obj\Debug\net8.0\web LH-Pets.AssemblyInfo.cs
+D:\Estudos\Back end\web LH-Pets\obj\Debug\net8.0\web LH-Pets.csproj.CoreCompileInputs.cache
+D:\Estudos\Back end\web LH-Pets\obj\Debug\net8.0\web LH-Pets.MvcApplicationPartsAssemblyInfo.cache
+D:\Estudos\Back end\web LH-Pets\bin\Debug\net8.0\appsettings.Development.json
+D:\Estudos\Back end\web LH-Pets\bin\Debug\net8.0\appsettings.json
+D:\Estudos\Back end\web LH-Pets\bin\Debug\net8.0\web LH-Pets.staticwebassets.runtime.json
+D:\Estudos\Back end\web LH-Pets\bin\Debug\net8.0\web LH-Pets.exe
+D:\Estudos\Back end\web LH-Pets\bin\Debug\net8.0\web LH-Pets.deps.json
+D:\Estudos\Back end\web LH-Pets\bin\Debug\net8.0\web LH-Pets.runtimeconfig.json
+D:\Estudos\Back end\web LH-Pets\bin\Debug\net8.0\web LH-Pets.dll
+D:\Estudos\Back end\web LH-Pets\bin\Debug\net8.0\web LH-Pets.pdb
+D:\Estudos\Back end\web LH-Pets\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Estudos\Back end\web LH-Pets\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Estudos\Back end\web LH-Pets\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Estudos\Back end\web LH-Pets\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Estudos\Back end\web LH-Pets\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Estudos\Back end\web LH-Pets\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Estudos\Back end\web LH-Pets\obj\Debug\net8.0\staticwebassets.build.json
+D:\Estudos\Back end\web LH-Pets\obj\Debug\net8.0\staticwebassets.development.json
+D:\Estudos\Back end\web LH-Pets\obj\Debug\net8.0\staticwebassets\msbuild.web LH-Pets.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Estudos\Back end\web LH-Pets\obj\Debug\net8.0\staticwebassets\msbuild.build.web LH-Pets.props
+D:\Estudos\Back end\web LH-Pets\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.web LH-Pets.props
+D:\Estudos\Back end\web LH-Pets\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.web LH-Pets.props
+D:\Estudos\Back end\web LH-Pets\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Estudos\Back end\web LH-Pets\obj\Debug\net8.0\scopedcss\bundle\web LH-Pets.styles.css
+D:\Estudos\Back end\web LH-Pets\obj\Debug\net8.0\web LH-P.79EF898C.Up2Date
+D:\Estudos\Back end\web LH-Pets\obj\Debug\net8.0\web LH-Pets.dll
+D:\Estudos\Back end\web LH-Pets\obj\Debug\net8.0\refint\web LH-Pets.dll
+D:\Estudos\Back end\web LH-Pets\obj\Debug\net8.0\web LH-Pets.pdb
+D:\Estudos\Back end\web LH-Pets\obj\Debug\net8.0\web LH-Pets.genruntimeconfig.cache
+D:\Estudos\Back end\web LH-Pets\obj\Debug\net8.0\ref\web LH-Pets.dll
